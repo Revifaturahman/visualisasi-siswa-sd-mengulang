@@ -6,8 +6,7 @@ Proyek ini merupakan dashboard visualisasi interaktif yang dibangun menggunakan 
 
 ## 🔗 Link Akses Looker Studio
 
-[🔎 Klik di sini untuk melihat dashboard di Looker Studio]([https://lookerstudio.google.com/reporting/your-report-id](https://lookerstudio.google.com/reporting/011d9ee6-12f5-4d13-abab-90ef6dda9f39/page/uVYfE/edit))
-
+[🔎 Klik di sini untuk melihat dashboard di Looker Studio](https://lookerstudio.google.com/reporting/011d9ee6-12f5-4d13-abab-90ef6dda9f39/page/uVYfE)
 ---
 
 ## 🧭 Struktur Dashboard
